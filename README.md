@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I am Mechoj08
+I'm in my last year of Mathematics @Delft University of Technology, The Netherlands, specializing in Mathematical analysis/Mathematical physics.
+- Currently working on: Startup in NLP
+- Currently learning: Lie groups (math), Transformers (Comp. Sci./NLP) and Biophysics (physics)
+- Looking for tips about: Preparing to build projects, set-up phase
+
+If you've got any interesting papers for me to read, podcasts to listen to or books to read, don't hesitate to email me! I love to learn about new things I've never heard about.
 
 <!--
 **Mechoj08/Mechoj08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
