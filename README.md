@@ -1,4 +1,4 @@
-### Hi, I am Mechoj08
+### Hi, I am Mechoj08 (Jochem Hoogendijk in real life)
 I'm in my last year of Mathematics @Delft University of Technology, The Netherlands, specializing in Mathematical analysis/Mathematical physics.
 - Currently working on: Master thesis on coercivity conditions in SPDEs.
 - Currently learning: Lie groups, General PDE theory, C++ programming and other computer science stuff.
