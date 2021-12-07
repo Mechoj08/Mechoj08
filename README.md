@@ -1,7 +1,7 @@
 ### Hi, I am Mechoj08 
-I'm Jochem Hoogendijk and I'm in my last year of  Mathematics @ Delft University of Technology, The Netherlands, specializing in Mathematical analysis/Mathematical physics.
-- Currently working on: Master thesis on coercivity conditions in stochastic partial differential equations.
-- Currently learning: General PDE theory, some harmonic analysis, C++ programming and other computer science stuff.
+I'm Jochem Hoogendijk, I am currently a PhD student at Utrecht University under Ivan Kryven.
+- Currently working on: Studying random graphs and Smoluchowski's equation
+- Currently learning: Analytical combinatorics as well as some standard probability techniques such as coupling.
 - Looking for tips about: Mathematical writing, Structuring big software engineering projects.
 
 If you've got any interesting papers for me to read, podcasts to listen to or books to read, don't hesitate to email me! I love to learn about new things I've never heard about.
